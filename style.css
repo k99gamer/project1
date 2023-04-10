@@ -1,0 +1,28 @@
+
+#ic1{  float:left;
+        max-width:120pt ;
+        max-height:120pt
+	}
+	
+#Name{
+       margin-left:170pt;
+        font-size:40pt ;
+	  margin-top:30pt
+      }
+	
+
+#But1{   margin-left:50pt;
+        font-size:30pt ;
+        color:Blue     ;
+	    background-color: Gray ;
+	    border-color: Red 
+	  }
+	  
+#hr1{   margin-top:100pt
+     }
+	 
+
+	 
+.c1{    font-style:italic;
+        font-size:20pt
+    }
